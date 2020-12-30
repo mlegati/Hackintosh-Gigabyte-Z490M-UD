@@ -1,1 +1,1 @@
-# Hackintosh-Gigabyte-Z490M-UD
+# Hackintosh Gigabyte Z490M Ultra Durable
